@@ -116,7 +116,7 @@ $$
 
 $$
 \begin{equation}
-G\_{\alpha} = \rangle G\_{<\alpha}^\* \langle
+G\_{\alpha} = \langle G\_{<\alpha}^\* \rangle
 \end{equation}
 $$
 
