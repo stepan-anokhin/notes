@@ -74,7 +74,7 @@ $\langle A \rangle$.
 
 **Замечание $N\_2$**: Из $O\_4$ следует, что множество $A$ замкнуто относительно набора операций $F$ тогда и только 
 тогда, когда $\langle A \rangle\_F = \varnothing$. Действительно, 
-$F(A) \setminus A$ = \varnothing \iff F(A) \subseteq A$ 
+$F(A) \setminus A = \varnothing \iff F(A) \subseteq A$ 
 
 **Определение $O\_5$ (Свойство)**: *Свойством* элементов множества $X$ будем называть любую функцию 
 $P:X\rightarrow \set{true, false\}$ принимающую на элементах $X$ значения из множества $\set{true, false\}$. 
